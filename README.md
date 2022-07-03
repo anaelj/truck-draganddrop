@@ -1,3 +1,4 @@
 # truck-draganddrop
 
-<img src="https://github.com/anaelj/campo-minado/blob/master/src/IMG_5740.jpg"> 
+ <img src="https://github.com/anaelj/truck-draganddrop/blob/main/foto.png" />
+
